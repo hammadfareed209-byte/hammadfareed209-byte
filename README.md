@@ -103,6 +103,9 @@ Visit my repositories for the projects currently available on my GitHub:
 > names or descriptions.
 
 ---
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Hammadfareed) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hammadfareed48) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/hammad-fareed-6b236142a) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@hammadfareed) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@hammadfareed603) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Hammad Fareed) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hammadfareed209@gmail.com) 
+---
 ## 📊 GitHub Analytics
 
 <!-- <div align="center">
