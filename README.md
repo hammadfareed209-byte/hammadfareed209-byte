@@ -118,7 +118,7 @@ Visit my repositories for the projects currently available on my GitHub:
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=hammadfareed209-byte&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+<img src="https://streak-stats.demolab.com?user=hammadfareed209-byte&theme=tokyonight&hide_border=true" height="180" alt="GitHub contribution streak"/>
 
 </div>
 
@@ -128,7 +128,7 @@ Visit my repositories for the projects currently available on my GitHub:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hammadfareed209-byte&theme=tokyo-night&hide_border=true&area=true" alt="GitHub activity graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hammadfareed209-byte&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="GitHub activity graph"/>
 
 </div>
 
