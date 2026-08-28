@@ -138,6 +138,18 @@ Visit my repositories for the projects currently available on my GitHub:
 
 The following animation can be enabled by adding the GitHub Actions workflow
 described below.
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/hammadfareed209-byte/hammadfareed209-byte/output/github-snake-dark.svg">
+
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/hammadfareed209-byte/hammadfareed209-byte/output/github-snake.svg">
+
+  <img alt="GitHub contribution snake"
+       src="https://raw.githubusercontent.com/hammadfareed209-byte/hammadfareed209-byte/output/github-snake.svg">
+</picture>
 
 <div align="center">
 
