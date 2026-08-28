@@ -108,12 +108,9 @@ Visit my repositories for the projects currently available on my GitHub:
 ---
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=hammadfareed209-byte&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
 ---
-[![](https://komarev.com/ghpvc/?username=hammadfareed209-byte&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
----
+
 ## 📊 GitHub Analytics
 
 <!-- <div align="center">
