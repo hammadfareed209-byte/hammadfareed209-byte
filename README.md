@@ -123,7 +123,6 @@ Visit my repositories for the projects currently available on my GitHub:
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=hammadfareed209-byte&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="GitHub activity graph"/>
 </div>
-
 ---
 
 ## 🐍 Contribution Snake
