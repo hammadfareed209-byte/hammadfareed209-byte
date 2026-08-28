@@ -24,16 +24,16 @@
 
 ---
 
-## 👋 About Me
+##  About Me
 
 ```text
-🎓 Computer Science Student
-📱 Android Development enthusiast
-🟣 Kotlin & Java developer
-🔥 Exploring Firebase
-🌐 Learning REST APIs & backend development
-🍃 Exploring Spring Boot
-🚀 Building projects and improving every day
+ Computer Science Student
+ Android Development enthusiast
+ Kotlin & Java developer
+ Exploring Firebase
+ Learning REST APIs & backend development
+ Exploring Spring Boot
+ Building projects and improving every day
 ```
 
 I'm focused on learning modern Android development and building practical
@@ -151,11 +151,11 @@ described below.
        src="https://raw.githubusercontent.com/hammadfareed209-byte/hammadfareed209-byte/output/github-snake.svg">
 </picture>
 
-<div align="center">
+<!-- <div align="center">
 
 <img src="https://raw.githubusercontent.com/hammadfareed209-byte/hammadfareed209-byte/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation"/>
 
-</div>
+</div> -->
 
 
 
