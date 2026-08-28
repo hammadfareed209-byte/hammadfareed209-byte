@@ -103,23 +103,17 @@ Visit my repositories for the projects currently available on my GitHub:
 > names or descriptions.
 
 ---
-
 ## 📊 GitHub Analytics
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=hammadfareed209-byte&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180" alt="GitHub statistics"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hammadfareed209-byte&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top languages"/>
-
+<img src="https://github-readme-stats-sigma-black.vercel.app/api?username=hammadfareed209-byte&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180" alt="GitHub statistics"/>
+<img src="https://github-readme-stats-sigma-black.vercel.app/api/top-langs/?username=hammadfareed209-byte&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top languages"/>
 </div>
 
 <br>
 
 <div align="center">
-
 <img src="https://streak-stats.demolab.com?user=hammadfareed209-byte&theme=tokyonight&hide_border=true" height="180" alt="GitHub contribution streak"/>
-
 </div>
 
 ---
@@ -127,9 +121,7 @@ Visit my repositories for the projects currently available on my GitHub:
 ## 📈 Contribution Activity
 
 <div align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=hammadfareed209-byte&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="GitHub activity graph"/>
-
 </div>
 
 ---
