@@ -105,10 +105,10 @@ Visit my repositories for the projects currently available on my GitHub:
 ---
 ## 📊 GitHub Analytics
 
-<div align="center">
+<!-- <div align="center">
 <img src="https://github-readme-stats-sigma-black.vercel.app/api?username=hammadfareed209-byte&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180" alt="GitHub statistics"/>
 <img src="https://github-readme-stats-sigma-black.vercel.app/api/top-langs/?username=hammadfareed209-byte&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top languages"/>
-</div>
+</div> -->
 
 <br>
 
@@ -118,17 +118,9 @@ Visit my repositories for the projects currently available on my GitHub:
 
 ---
 
-## 📈 Contribution Activity
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hammadfareed209-byte&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="GitHub activity graph"/>
-</div>
 ---
 
-## 🐍 Contribution Snake
-
-The following animation can be enabled by adding the GitHub Actions workflow
-described below.
 ## 🐍 Contribution Snake
 
 <picture>
